@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="38275" name="GreenMoon" modified="" author="Andriy Andrunevchyn">
+    <searchResultIndication color="#000000" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#888E9B" italic="false" />
+    <multiLineComment color="#888E9B" italic="false" />
+    <commentTaskTag color="#EFC090" italic="false" />
+    <javadoc color="#A4AAB6" italic="false" />
+    <javadocLink color="#E2EED6" italic="false" />
+    <javadocTag color="#E2EED6" italic="false" />
+    <javadocKeyword color="#E2EED6" italic="false" />
+    <class color="#CCE8AE" bold="true" underline="false" strikethrough="false" />
+    <interface color="#7FB347" />
+    <method color="#CCE8AE" />
+    <methodDeclaration color="#CCE8AE" />
+    <bracket color="#FFC600" />
+    <number color="#7FB347" />
+    <string color="#EFC090" />
+    <operator color="#E2EED6" />
+    <keyword color="#E2EED6" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#CCE8AE" />
+    <localVariable color="#7FB347" />
+    <localVariableDeclaration color="#7FB347" />
+    <field color="#7FB347" />
+    <staticField color="#7FB347" />
+    <staticFinalField color="#7FB347" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#CCE8AE" />
+    <abstractMethod color="#CCE8AE" />
+    <parameterVariable color="#7FB347" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#EFC090" />
+    <background color="#282C35" />
+    <currentLine color="#2A2A2A" />
+    <foreground color="#D8D8D8" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#D9E577" />
+</colorTheme>
