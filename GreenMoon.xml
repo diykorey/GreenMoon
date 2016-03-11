@@ -38,8 +38,8 @@
     <typeArgument color="#BFA4A4" />
     <typeParameter color="#BFA4A4" />
     <constant color="#EFC090" />
-    <background color="#282C35" />
-    <currentLine color="#2A2A2A" />
+    <background color="#3d4149" />
+    <currentLine color="#52565d" />
     <foreground color="#D8D8D8" />
     <lineNumber color="#D0D0D0" />
     <selectionBackground color="#000000" />
